@@ -1,0 +1,72 @@
+11 Mar 2025 09:00:26,832 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/User/IdeaProjects/teme-lab-AlexCocrea/cars.db} 
+11 Mar 2025 09:00:26,836 TRACE CarsDBRepository 78 add - Enter saving task
+11 Mar 2025 09:00:26,836 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:00:26,837 TRACE JdbcUtils 23 getNewConnection - Enter
+11 Mar 2025 09:00:26,837 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/User/IdeaProjects/teme-lab-AlexCocrea/cars.db
+11 Mar 2025 09:00:26,837 INFO  JdbcUtils 29 getNewConnection - user: null
+11 Mar 2025 09:00:26,837 INFO  JdbcUtils 30 getNewConnection - pass: null
+11 Mar 2025 09:00:27,008 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@102cec62)
+11 Mar 2025 09:00:27,013 TRACE CarsDBRepository 85 add - Saved 1 instances
+11 Mar 2025 09:00:27,014 TRACE CarsDBRepository 90 add - Exit
+11 Mar 2025 09:00:27,014 TRACE CarsDBRepository 114 findAll - Enter
+11 Mar 2025 09:00:27,014 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:00:27,014 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@102cec62)
+11 Mar 2025 09:00:27,022 TRACE CarsDBRepository 133 findAll - Exit with([Id=0 Tesla Model S 2019])
+11 Mar 2025 09:00:27,022 TRACE CarsDBRepository 25 findByManufacturer - Enter finding cars by manufacturer
+11 Mar 2025 09:00:27,022 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:00:27,023 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@102cec62)
+11 Mar 2025 09:00:27,023 TRACE CarsDBRepository 45 findByManufacturer - Exit with([Id=0 Tesla Model S 2019])
+11 Mar 2025 09:01:34,328 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/User/IdeaProjects/teme-lab-AlexCocrea/cars.db} 
+11 Mar 2025 09:01:34,332 TRACE CarsDBRepository 78 add - Enter saving task
+11 Mar 2025 09:01:34,332 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:01:34,333 TRACE JdbcUtils 23 getNewConnection - Enter
+11 Mar 2025 09:01:34,333 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/User/IdeaProjects/teme-lab-AlexCocrea/cars.db
+11 Mar 2025 09:01:34,333 INFO  JdbcUtils 29 getNewConnection - user: null
+11 Mar 2025 09:01:34,334 INFO  JdbcUtils 30 getNewConnection - pass: null
+11 Mar 2025 09:01:34,452 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@74f6c5d8)
+11 Mar 2025 09:01:34,458 TRACE CarsDBRepository 85 add - Saved 1 instances
+11 Mar 2025 09:01:34,458 TRACE CarsDBRepository 90 add - Exit
+11 Mar 2025 09:01:34,459 TRACE CarsDBRepository 114 findAll - Enter
+11 Mar 2025 09:01:34,459 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:01:34,459 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@74f6c5d8)
+11 Mar 2025 09:01:34,467 TRACE CarsDBRepository 133 findAll - Exit with([Id=0 Tesla Model S 2019, Id=0 Tesla Model S 2019])
+11 Mar 2025 09:01:34,468 TRACE CarsDBRepository 25 findByManufacturer - Enter finding cars by manufacturer
+11 Mar 2025 09:01:34,468 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:01:34,468 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@74f6c5d8)
+11 Mar 2025 09:01:34,469 TRACE CarsDBRepository 45 findByManufacturer - Exit with([Id=0 Tesla Model S 2019, Id=0 Tesla Model S 2019])
+11 Mar 2025 09:08:54,403 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/User/IdeaProjects/teme-lab-AlexCocrea/cars.db} 
+11 Mar 2025 09:08:54,408 TRACE CarsDBRepository 78 add - Enter saving task
+11 Mar 2025 09:08:54,408 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:08:54,409 TRACE JdbcUtils 23 getNewConnection - Enter
+11 Mar 2025 09:08:54,409 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/User/IdeaProjects/teme-lab-AlexCocrea/cars.db
+11 Mar 2025 09:08:54,409 INFO  JdbcUtils 29 getNewConnection - user: null
+11 Mar 2025 09:08:54,410 INFO  JdbcUtils 30 getNewConnection - pass: null
+11 Mar 2025 09:08:54,530 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@74f6c5d8)
+11 Mar 2025 09:08:54,536 TRACE CarsDBRepository 85 add - Saved 1 instances
+11 Mar 2025 09:08:54,536 TRACE CarsDBRepository 90 add - Exit
+11 Mar 2025 09:08:54,536 TRACE CarsDBRepository 114 findAll - Enter
+11 Mar 2025 09:08:54,536 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:08:54,537 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@74f6c5d8)
+11 Mar 2025 09:08:54,543 TRACE CarsDBRepository 133 findAll - Exit with([Id=1 Tesla Model S 2019])
+11 Mar 2025 09:08:54,544 TRACE CarsDBRepository 25 findByManufacturer - Enter finding cars by manufacturer
+11 Mar 2025 09:08:54,544 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:08:54,544 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@74f6c5d8)
+11 Mar 2025 09:08:54,545 TRACE CarsDBRepository 45 findByManufacturer - Exit with([Id=1 Tesla Model S 2019])
+11 Mar 2025 09:09:00,962 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/User/IdeaProjects/teme-lab-AlexCocrea/cars.db} 
+11 Mar 2025 09:09:00,966 TRACE CarsDBRepository 78 add - Enter saving task
+11 Mar 2025 09:09:00,966 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:09:00,967 TRACE JdbcUtils 23 getNewConnection - Enter
+11 Mar 2025 09:09:00,967 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/User/IdeaProjects/teme-lab-AlexCocrea/cars.db
+11 Mar 2025 09:09:00,967 INFO  JdbcUtils 29 getNewConnection - user: null
+11 Mar 2025 09:09:00,967 INFO  JdbcUtils 30 getNewConnection - pass: null
+11 Mar 2025 09:09:01,087 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@74f6c5d8)
+11 Mar 2025 09:09:01,094 TRACE CarsDBRepository 85 add - Saved 1 instances
+11 Mar 2025 09:09:01,094 TRACE CarsDBRepository 90 add - Exit
+11 Mar 2025 09:09:01,094 TRACE CarsDBRepository 114 findAll - Enter
+11 Mar 2025 09:09:01,094 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:09:01,095 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@74f6c5d8)
+11 Mar 2025 09:09:01,102 TRACE CarsDBRepository 133 findAll - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019])
+11 Mar 2025 09:09:01,103 TRACE CarsDBRepository 25 findByManufacturer - Enter finding cars by manufacturer
+11 Mar 2025 09:09:01,103 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 09:09:01,103 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@74f6c5d8)
+11 Mar 2025 09:09:01,104 TRACE CarsDBRepository 45 findByManufacturer - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019])
